@@ -1,3 +1,6 @@
+# Ignore output
+*output.jpg
+
 # Byte-compiled / optimized / DLL files
 tmp/
 test/*/*/certs/

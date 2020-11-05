@@ -21,5 +21,7 @@ The makefile consists of examples on how to get started with a few convenience f
 
 
 ## Inqueries
+These examples serves as a starting ground for further work and is also intended to be complemented with a presentation running through the material and things persisted here.
+
 Reach out to us for more help or information! Use as you please.
 

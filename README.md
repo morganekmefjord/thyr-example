@@ -1,5 +1,5 @@
 
-# Thyrens
+# Example
 
 ## Description
 This repository includes some of the getting started steps referred to in the workshop.
